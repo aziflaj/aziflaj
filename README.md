@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **aziflaj/aziflaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+<figure><embed src="https://wakatime.com/share/@aziflaj/7a8f13a1-1b07-4157-bbb7-3805960f6250.svg"></embed></figure>
