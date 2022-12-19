@@ -1,19 +1,15 @@
-### Hi there 👋
+👨🏻‍💻 Software Engineer @ [Leadfeeder](https://github.com/leadfeeder)
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="33" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" /> 
 
-**aziflaj/aziflaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<a href="https://wakatime.com">
-  <img src="https://wakatime.com/share/@aziflaj/c6bdde83-512d-4b4a-86c0-0c090892bd51.png" />
-</a>
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=aziflaj&count_private=true&show_icons=true&include_all_commits=true&theme=onedark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=aziflaj&count_private=true&show_icons=true&include_all_commits=true"
+  media="(prefers-color-scheme: light)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=aziflaj&count_private=true&show_icons=true&include_all_commits=true" />
+</picture>
