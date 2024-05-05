@@ -1,4 +1,4 @@
-👨🏻‍💻 Tech Lead @ [Leadfeeder](https://github.com/leadfeeder)
+👨🏻‍💻 Tech Lead @ Dealfront (x[Leadfeeder](https://github.com/leadfeeder))
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="33" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" /> 
 
